@@ -1,0 +1,39 @@
+codigo,classe_geral,classe_pt,classe_en,hex
+1,Floresta,Floresta,Forest,#1f8d49
+3,Floresta,Formação Florestal,Forest Formation,#1f8d49
+4,Floresta,Formação Savânica,Savanna Formation,#7dc975
+5,Floresta,Mangue,Mangrove,#04381d
+6,Floresta,Floresta Alagável,Floodable Forest,#007785
+49,Floresta,Restinga Arbórea,Wooded Sandbank Vegetation,#02d659
+10,Vegetação Natural Não Florestal,Vegetação Herbácea e Arbustiva,Herbaceous and Shrubby Vegetation,#d6bc74
+11,Vegetação Natural Não Florestal,Campo Alagado e Área Pantanosa,Wetland,#519799
+12,Vegetação Natural Não Florestal,Formação Campestre,Grassland,#d6bc74
+32,Vegetação Natural Não Florestal,Apicum,Hypersaline Tidal Flat,#fc8114
+29,Vegetação Natural Não Florestal,Afloramento Rochoso,Rocky Outcrop,#ffaa5f
+50,Vegetação Natural Não Florestal,Restinga Herbácea,Herbaceous Sandbank Vegetation,#ad5100
+14,Agropecuária,Agropecuária,Farming,#ffefc3
+15,Agropecuária,Pastagem,Pasture,#edde8e
+18,Agropecuária,Agricultura,Agriculture,#E974ED
+19,Agropecuária,Lavoura Temporária,Temporary Crop,#C27BA0
+39,Agropecuária,Soja,Soybean,#f5b3c8
+20,Agropecuária,Cana,Sugar Cane,#db7093
+40,Agropecuária,Arroz,Rice,#c71585
+62,Agropecuária,Algodão (beta),Cotton (beta),#ff69b4
+41,Agropecuária,Outras Lavouras Temporárias,Other Temporary Crops,#f54ca9
+36,Agropecuária,Lavoura Perene,Perennial Crop,#d082de
+46,Agropecuária,Café,Coffee,#d68fe2
+47,Agropecuária,Citrus,Citrus,#9932cc
+35,Agropecuária,Dendê,Palm Oil,#9065d0
+48,Agropecuária,Outras Lavouras Perenes,Other Perennial Crops,#e6ccff
+9,Agropecuária,Silvicultura,Forest Plantation,#7a5900
+21,Agropecuária,Mosaico de Usos,Mosaic of Uses,#ffefc3
+22,Área Não Vegetada,Área não Vegetada,Non-vegetated Area,#d4271e
+23,Área Não Vegetada,Praia, Duna e Areal,Beach, Dune and Sand Spot,#ffa07a
+24,Área Não Vegetada,Área Urbanizada,Urban Area,#d4271e
+30,Área Não Vegetada,Mineração,Mining,#9c0027
+75,Área Não Vegetada,Usina Fotovoltaica (beta),Photovoltaic Power Plant (beta),#c12100
+25,Área Não Vegetada,Outras Áreas não Vegetadas,Other Non-vegetated Areas,#db4d4f
+26,Corpo d’Água,Corpo d’Água,Water,#2532e4
+33,Corpo d’Água,Rio, Lago e Oceano,River, Lake and Ocean,#2532e4
+31,Corpo d’Água,Aquicultura,Aquaculture,#091077
+27,Não Observado,Não observado,Not Observed,#ffffff
