@@ -133,6 +133,4 @@ Prefeitura Municipal de Florianópolis – Geoportal
 
 ## 👤 Autor
 
-Theo G. Miqueluzzi
-Geografia · Geoprocessamento · Análise Espacial
-Florianópolis – SC
+Theo G. Miqueluzzi |Geografia · Geoprocessamento · Análise Espacial | Florianópolis – SC
